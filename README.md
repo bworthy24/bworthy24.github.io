@@ -7,3 +7,5 @@
 
 “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”
 - Harriet Tubman
+
+Tables: <a href="cartoons.html" title="My Cartoons">Cartoon Table Sheet</a>
