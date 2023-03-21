@@ -8,4 +8,4 @@
 “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”
 - Harriet Tubman
 
-Tables: <a href="cartoons.html" title="My Cartoons">Cartoon Table Sheet</a>
+Tables: <a href="https://github.com/bworthy24/bworthy24.github.io/blob/da3b36a5ddaf5513ece21ad5ebd004bc060bf550/cartoons.html" title="My Cartoons">Cartoon Table Sheet</a>
